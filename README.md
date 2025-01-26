@@ -71,7 +71,8 @@ Screenshots (Add at least 3)
 ![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
 
 Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+![Workflow]
+![Image](https://github.com/user-attachments/assets/2d1f8984-3c42-43bc-8376-ad45eea3ebbd)
 
 
 
