@@ -86,10 +86,7 @@ Build Photos
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
-
-Additional Demos
-[Add any extra demo materials/links]
+[[Demo video link](https://github.com/Ayoona22/Securo/issues/2#issue-2811325338)] 
 
 Team Contributions
 1. Ayoona Maria John: Backend
