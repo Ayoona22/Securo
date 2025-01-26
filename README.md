@@ -60,8 +60,8 @@ Run
           
   3. Access the application at:
     `http://127.0.0.1:5000`
-Project Documentation
-For Software:
+## Project Documentation
+
 
 Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
