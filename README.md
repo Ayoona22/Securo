@@ -63,23 +63,25 @@ Run
 ## Project Documentation
 
 
-Screenshots (Add at least 3)
+## Screenshots
 ![Image](https://github.com/user-attachments/assets/3e0bdaee-027e-44b2-a7c0-9a3d5aa3cdc8)
 Reporting issue.
+
 ![Image](https://github.com/user-attachments/assets/31512986-031a-4d24-a8c1-28ebedbe58c6) 
 uploading picture of the issues.
+
 ![Image](https://github.com/user-attachments/assets/9c2b2ed4-585f-4014-b47f-a1e9d2c3cf27)
 map view
 
 
-Diagrams
-![Workflow]
+## Diagrams
+## Workflow
 ![Image](https://github.com/user-attachments/assets/2d1f8984-3c42-43bc-8376-ad45eea3ebbd)
 
 
 
-Build Photos
-![Team](Add photo of your team here)
+## Build Photos
+Team
 
 
 
